@@ -52,20 +52,22 @@ i build systems from scratch, fix problems that shouldn’t have existed, and re
 <p align="left">
   <img src="assets/imgs/languages.png" alt="Languages"  height="14px" style="margin-top:8px;"/>
 </p>
-
+<p style="display:flex;">
 <img src="assets/badges/agnostic.png" height="42" alt="Agnostic" style="margin-right:8px;"/>
 <img src="assets/badges/typescript.png" height="42" alt="Agnostic" style="margin-right:8px;"/>
 <img src="assets/badges/rust.png" height="42" alt="Agnostic" style="margin-right:8px;"/>
-
+</p>
 
 <p align="left">
   <img src="assets/imgs/creative_stack.png" alt="Creative Stack"  height="14px" style="margin-top:12px;"/>
 </p>
-
-<img src="assets/icons/blender.png" height="42" alt="Blender" style="margin-right:8px;"/>
+<p style="display:flex;">
+  <img src="assets/icons/blender.png" height="42" alt="Blender" style="margin-right:8px;"/>
 <img src="assets/icons/ps.png" height="42" alt="Photoshop" style="margin-right:8px;"/>
 <img src="assets/icons/ai.png" height="42" alt="Illustrator" style="margin-right:8px;"/>
 <img src="assets/icons/ae.png" height="42" alt="After Effects" style="margin-right:8px;"/>
+</p>
+
 
 <p align="center">
   <img src="assets/imgs/separator.png" alt="separator" height="15px" style="margin-top: 20px; margin-bottom:20px; transform: rotate(180deg);" />
