@@ -80,3 +80,6 @@ i build systems from scratch, fix problems that shouldn’t have existed, and re
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://retro-portfolio-omega.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-memmou-46532a367)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdomem7@gmail.com)
+
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=neon-x-hub)
