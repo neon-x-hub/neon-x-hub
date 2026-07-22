@@ -81,5 +81,7 @@ i build systems from scratch, fix problems that shouldn’t have existed, and re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-memmou-46532a367)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdomem7@gmail.com)
 
+[![committers.top badge](https://user-badge.committers.top/algeria/neon-x-hub.svg)](https://user-badge.committers.top/algeria/neon-x-hub)
+
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=neon-x-hub)
